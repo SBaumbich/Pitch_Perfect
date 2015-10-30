@@ -2,7 +2,7 @@
 This iOS app allow users to record their voice and will then modulate the recorded audio to sound like a Chipmunk or Darth Vader. This app will also let the user speed up, slow down, apply ecco, and add reverb to the playback.
 
 ##What I learned?
-You will learn how to:
+I learned how to:
 
 * Create a new project from existing iOS app templates
 * Add buttons, images, labels and create user interfaces for the app using the Storyboard
